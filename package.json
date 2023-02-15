@@ -19,6 +19,7 @@
   },
   "homepage": "https://github.com/cloudinary-training/cld-advanced-concepts#readme",
   "dependencies": {
+    "@vue/cli": "^5.0.8",
     "cloudinary": "^1.21.0",
     "dotenv": "^8.2.0",
     "lodash": "^4.17.19",
